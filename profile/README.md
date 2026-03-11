@@ -4,6 +4,7 @@
 
 Articles are generated on the fly by text/template templates from a set of data derived from an array of cheminformatics and pharmacology databases.
 
+[/index](https://anodyne.wiki/index/substance)
 [/substance/amphetamine](https://anodyne.wiki/substance/amphetamine)
 ![Example Article Top](example_article_top.png)
 ![Example Article Bottom](example_article_bottom.png)
