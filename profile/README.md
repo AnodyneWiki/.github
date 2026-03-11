@@ -5,7 +5,6 @@
 Articles are generated on the fly by text/template templates from a set of data derived from an array of cheminformatics and pharmacology databases.
 
 [/substance/amphetamine](/api/substance/amphetamine)
-![Example Article](example_article.png)
 ![Example Article Top](example_article_top.png)
 ![Example Article Bottom](example_article_bottom.png)
 
@@ -31,3 +30,9 @@ For further assistance gladly reach out to: [0xea](https://anodyne.wiki/user/0xe
     * Querying routes of administration: [/api/administaration/](/api/administration/intravenous)
 * User index: [/api/index/user/](/api/index/user)
 * Querying user: [/api/user/](/api/user/0xea)
+
+### Dependencies
+- caddy
+- golang
+- ruby
+- ruby-httparty
