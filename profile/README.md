@@ -2,7 +2,7 @@
 
 ### Templated Frontend
 
-Articles are generated on the fly by text/template templates from a set of data derived from an array of cheminformatics and pharmacology databases.
+Articles are generated on the fly by text/template templates from a set of data derived from an array of cheminformatics and pharmacology databases and toolsets.
 
 [/index](https://anodyne.wiki/index/substance)
 [/substance/amphetamine](https://anodyne.wiki/substance/amphetamine)
