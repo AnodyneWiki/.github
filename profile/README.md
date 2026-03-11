@@ -4,12 +4,18 @@
 
 Articles are generated on the fly by text/template templates from a set of data derived from an array of cheminformatics and pharmacology databases.
 
-[/substance/](/api/substance/amphetamine)
+[/substance/amphetamine](/api/substance/amphetamine)
 ![Example Article](example_article.png)
 ![Example Article Top](example_article_top.png)
 ![Example Article Bottom](example_article_bottom.png)
+
 [/substituted/](/substituted/amphetamine)
 ![Example Substitution](example_substitution.png)
+
+[/user/](/user/0xea)
+![Example Substitution Top](example_user_top.png)
+![Example Substitution Middle](example_user_middle.png)
+![Example Substitution Bottom](example_user_bottom.png)
 
 ### API Backend
 
