@@ -4,15 +4,15 @@
 
 Articles are generated on the fly by text/template templates from a set of data derived from an array of cheminformatics and pharmacology databases.
 
-[/substance/amphetamine](/api/substance/amphetamine)
+[/substance/amphetamine](https://anodyne.wiki/substance/amphetamine)
 ![Example Article Top](example_article_top.png)
 ![Example Article Bottom](example_article_bottom.png)
 
-[/substituted/](/substituted/amphetamine)
+[/substituted/](https://anodyne.wiki/substituted/amphetamine)
 ![Example Substitution](example_substitution.png)
 
-[/user/0xea](/user/0xea)
-[/user/magnus](/user/magnus)
+[/user/0xea](https://anodyne.wiki/user/0xea)
+[/user/magnus](https://anodyne.wiki/user/magnus)
 ![Example User Base](example_user_base.png)
 ![Example User Matrix](example_user_matrix.png)
 ![Example User Annotations](example_user_annotations.png)
