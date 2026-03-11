@@ -2,6 +2,8 @@
 
 ### Templated Frontend
 
+Articles are generated on the fly by text/template templates from a set of data derived from an array of cheminformatics and pharmacology databases.
+
 [/substance/](/api/substance/amphetamine)
 ![Example Article](example_article.png)
 ![Example Article Top](example_article_top.png)
