@@ -12,7 +12,8 @@ Articles are generated on the fly by text/template templates from a set of data 
 [/substituted/](/substituted/amphetamine)
 ![Example Substitution](example_substitution.png)
 
-[/user/](/user/0xea)
+[/user/0xea](/user/0xea)
+[/user/magnus](/user/magnus)
 ![Example Substitution Top](example_user_top.png)
 ![Example Substitution Middle](example_user_middle.png)
 ![Example Substitution Bottom](example_user_bottom.png)
