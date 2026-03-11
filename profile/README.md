@@ -14,9 +14,9 @@ Articles are generated on the fly by text/template templates from a set of data 
 
 [/user/0xea](/user/0xea)
 [/user/magnus](/user/magnus)
-![Example Substitution Top](example_user_top.png)
-![Example Substitution Middle](example_user_middle.png)
-![Example Substitution Bottom](example_user_bottom.png)
+![Example User Base](example_user_base.png)
+![Example User Matrix](example_user_matrix.png)
+![Example User Annotations](example_user_annotations.png)
 
 ### API Backend
 
