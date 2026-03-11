@@ -38,3 +38,6 @@ For further assistance gladly reach out to: [0xea](https://anodyne.wiki/user/0xe
 - ruby
 - ruby-httparty (database scrapping)
 - [molpic](https://github.com/coderobe/molpic) (our CDK based cannonicalized molecular structure generation tool)
+- python
+- rdkit (stereoisomer enumeration)
+- [3Dmol.js](https://github.com/3dmol/3Dmol.js) / [jsmol](https://github.com/cheminfo/jsmol) (conformer viewer)
