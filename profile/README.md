@@ -1,5 +1,7 @@
 # AnodyneWiki
 
+A meta-wiki optimized for chemicals affecting biological life-forms and their use and administration and interactions.
+
 ### Templated Frontend
 
 Articles are generated on the fly by text/template templates from a set of data derived from an array of cheminformatics and pharmacology databases and toolsets.
@@ -37,7 +39,8 @@ For further assistance gladly reach out to: [0xea](https://anodyne.wiki/user/0xe
 - golang (backend api)
 - ruby
 - ruby-httparty (database scrapping)
-- [molpic](https://github.com/coderobe/molpic) (our CDK based cannonicalized molecular structure generation tool)
 - python
 - rdkit (stereoisomer enumeration)
 - [3Dmol.js](https://github.com/3dmol/3Dmol.js) / [jsmol](https://github.com/cheminfo/jsmol) (conformer viewer)
+- [anodyne-molpic](https://github.com/AnodyneWiki/anodyne-molpic) (our CDK based cannonicalized molecular structure generation tool)
+- [anodyne-chrp](https://github.com/AnodyneWiki/anodyne-chrp) (scrapping backend)
