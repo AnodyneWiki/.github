@@ -6,8 +6,8 @@ A meta-wiki optimized for chemicals affecting biological life-forms and their us
 
 Articles are generated on the fly by text/template templates from a set of data derived from an array of cheminformatics and pharmacology databases and toolsets.
 
-[/index](https://anodyne.wiki/index/substance)
-[/substance/amphetamine](https://anodyne.wiki/substance/amphetamine)
+[/index/substance](https://anodyne.wiki/index/substance)
+[/substance/methamphetamine](https://anodyne.wiki/substance/amphetamine)
 ![Example Article Top](example_article_top.png)
 ![Example Article Middle](example_article_middle.png)
 ![Example Article Bottom](example_article_bottom.png)
@@ -18,7 +18,6 @@ Articles are generated on the fly by text/template templates from a set of data 
 [/user/0xea](https://anodyne.wiki/user/0xea)
 [/user/magnus](https://anodyne.wiki/user/magnus)
 ![Example User Base](example_user_base.png)
-![Example User Matrix](example_user_matrix.png)
 ![Example User Annotations](example_user_annotations.png)
 
 ### API Backend
@@ -44,4 +43,4 @@ For further assistance gladly reach out to: [0xea](https://anodyne.wiki/user/0xe
 - rdkit (stereoisomer enumeration)
 - [3Dmol.js](https://github.com/3dmol/3Dmol.js) / [jsmol](https://github.com/cheminfo/jsmol) (conformer viewer)
 - [anodyne-molpic](https://github.com/AnodyneWiki/anodyne-molpic) (our CDK based cannonicalized molecular structure generation tool)
-- [anodyne-chrp](https://github.com/AnodyneWiki/anodyne-chrp) (scrapping backend)
+- [anodyne-chrp](https://github.com/AnodyneWiki/anodynewiki-chrp) (scrapping backend)
