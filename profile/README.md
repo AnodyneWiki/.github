@@ -9,7 +9,7 @@ Articles are generated on the fly by text/template templates from a set of data 
 [/index/substance](https://anodyne.wiki/index/substance)
 [/substance/methamphetamine](https://anodyne.wiki/substance/amphetamine)
 ![Example Article Top](example_article_top.png)
-![Example Article Middle](example_article_middle.png)
+![Example Article Mid](example_article_mid.png)
 ![Example Article Bottom](example_article_bottom.png)
 
 [/substituted/tryptamine](https://anodyne.wiki/substituted/tryptamine)
