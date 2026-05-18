@@ -6,6 +6,8 @@ A meta-wiki optimized for chemicals affecting biological life-forms and their us
 
 Articles are generated on the fly by text/template templates from a set of data derived from an array of cheminformatics and pharmacology databases and toolsets.
 
+[/about](https://anodyne.wiki/about)
+![Example About](example_about.png)
 [/index/substance](https://anodyne.wiki/index/substance)
 [/substance/methamphetamine](https://anodyne.wiki/substance/amphetamine)
 ![Example Article Top](example_article_top.png)
